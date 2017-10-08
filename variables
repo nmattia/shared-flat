@@ -1,0 +1,9 @@
+<#define PROPERTY|123 6th St. Melbourne, FL 32904>
+<#define WHERE|Melbourne>
+<#define WHEN|<#date %B %d %Y>>
+<#define LESSOR|John Doe, residing at <#PROPERTY>>
+<#define LESSEE|Jane Doe, residing at 71 Pilgrim Avenue Chevy Chase, MD 20815>
+<#define ROOM|A furnished room with a bed and a built-in closet as well as shared usage of the living room, kitchen and bathroom.>
+<#define RENT|$350>
+<#define N_MONTHS|4>
+<#define START|the 1st of October 2017>
