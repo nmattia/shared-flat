@@ -1,8 +1,8 @@
 # Shared flat template
 
-This is a shared flat agreement template. You can set
-variables in `variables`.  To build, you need [gpp][1] and
-[pandoc][2]. Run the following command:
+This is a shared flat agreement template (click [here](src/contract.md) to see
+the template). You can set variables in `variables`. In order to generate the
+PDF version, you need [gpp][1] and [pandoc][2]. Run the following command:
 
 ``` shell
 $ gpp --include src/variables -H src/contract.md | pandoc -o contract.pdf
